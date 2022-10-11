@@ -1,0 +1,6 @@
+private  int sum3(int a, intb, int c){
+      if(a+b+c>integer.MAX){
+      throw RuntimeExeption(a + b +c not be exceed max value);
+      return a+b+c;
+}
+} 
